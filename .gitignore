@@ -1,0 +1,9 @@
+*.exe
+.o 
+
+/carpetaIgnorada
+
+.env
+config.json
+
+*nuevoignorado.txt
