@@ -8,7 +8,7 @@ int main() {
     printf("2) Direccion de memoria almacenada por el puntero: %p\n", puntero);
     printf("3) Direccion de memoria de la variable: %p\n", &variable);
     printf("4) Direccion de memoria del puntero: %p\n", &puntero);
-    printf("5) Tamaño de memoria utilizado por la variable: %lu bytes\n", sizeof(variable));
+    printf("5) Tamaño de memoria utilizado por la variable: %d bytes\n", sizeof(variable));
 
     return 0;
 }
