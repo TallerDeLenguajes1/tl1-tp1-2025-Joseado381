@@ -22,19 +22,17 @@ Para configurar un .gitignore, se crea un archivo llamado .gitignore en la raíz
 que le dicen a Git qué archivos o carpetas debe ignorar.
 
 
-3. g) Si resolvió correctamente los apartados 2 y 3 del punto anterior notará
-que el resultado es el mismo. ¿a qué se debe? ¿Qué obtiene en el
-punto 4? ¿Es igual a los anteriores? ¿Por qué?
+### *RESPUESTAS DEL TO1 PUNTO 3 APARTADO G*
 
-¿A qué se debe? 
+_¿A qué se debe?_
 Se debe a que la variable puntero guarda la direccion de memoria de la variable al que apunta
 Por lo que imprimir puntero (%p) y &variable (%p) da el mismo valor.
 
-¿Qué obtiene en el punto 4?
+_¿Qué obtiene en el punto 4?_
 En el punto 4 se obtiene la dirección de memoria del puntero. 
 Es decir, &puntero devuelve la dirección donde está almacenado el puntero en la memoria.
 
-¿Es igual a los anteriores? ¿Por qué?
+_¿Es igual a los anteriores? ¿Por qué?_
 No, la dirección de &puntero es diferente de puntero y &variable. 
 Esto se debe a que el puntero es una variable que ocupa su propio espacio en la memoria. 
 Aunque puntero almacena la dirección de variable, el puntero mismo tiene una ubicación diferente en la memoria del programa.
