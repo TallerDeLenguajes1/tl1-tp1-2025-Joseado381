@@ -37,3 +37,4 @@ No, la dirección de &puntero es diferente de puntero y &variable.
 Esto se debe a que el puntero es una variable que ocupa su propio espacio en la memoria. 
 Aunque puntero almacena la dirección de variable, el puntero mismo tiene una ubicación diferente en la memoria del programa.
 
+PD: tengo otro archivo ignorado.txt el primero no se habia ignorado como queria pero ya no se como eliminarlo o si deberia
